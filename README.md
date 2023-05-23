@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate backend and machine learning developer from India</h3>
+<h3 align="center">A passionate Full stack and machine learning developer from India</h3>
 
-- 🔭 I’m currently working on **Music information retrieval using deep learning**
+- 🔭 I’m currently working on **Building full stack web applications**
 
-- 🌱 I’m currently learning **Google Data analytics and deep learning**
-
-- 🤝 I’m looking for help with **understanding audio and signal procecessing**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vign2020?tab=repositories](https://github.com/vign2020?tab=repositories)
 
