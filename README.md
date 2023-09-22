@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate Full stack and machine learning developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 - 🔭 I’m currently working on **Building full stack web applications**
 
