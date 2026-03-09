@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Building full stack web applications**
-
-- 🌱 I’m currently learning **React**
+- 🔭 Building backend systems and experimenting with Retrieval-Augmented Generation (RAG) applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vign2020?tab=repositories](https://github.com/vign2020?tab=repositories)
 
 - 📫 How to reach me **email:vign2020@gmail.com**
-
-- ⚡ Fun fact **I can type at 80WPM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
