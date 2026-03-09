@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">Full-stack developer focused on backend systems. I work with Node.js, databases, and cloud infrastructure, and recently I’ve been building and experimenting with RAG-based applications.</h3>
 
 - 🔭 Building backend systems and experimenting with Retrieval-Augmented Generation (RAG) applications.
 
